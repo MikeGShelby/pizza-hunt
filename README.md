@@ -15,7 +15,7 @@ A web application for creating and commenting on pizzas!
   - [Questions](#questions)
 
 ## Application Screenshot
-![Pizza Hunt screenshot](./public/images/pizza-hunt-screenshot.jpg "Application Screenshot")
+![Pizza Hunt screenshot](./public/assets/images/pizza-hunt-screenshot.jpg "Application Screenshot")
 
 ## Deployed Application
 https://pizza-hunt-0.herokuapp.com/
